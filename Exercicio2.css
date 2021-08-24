@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/1928477-tropical-rainforest-jungle-background-gr%C3%A1tis-vetor.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Varela Round', sans-serif;
+}
+h1 {
+    font-size: 105px;
+    color: #fff;
+    text-align: center;
+    font-style: varela round;
+}
+p {
+    font-size: 25px;
+    color: #fff;
+    text-align: justify;
+    font-style: oblique;
+}
+a:hover {
+    color: #36B0E0;
+}
+img {
+    border-radius: 50%;
+    border: solid;
+}
